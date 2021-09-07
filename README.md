@@ -9,12 +9,10 @@
 
    식용 가능한 물인지 예측해보는 데이터. 초기에 가장 정확도가 높았던 모델은 Random Forest로 66%였으나 이후, 전처리를 통해 SVM으로 72%까지 정확도를 향상 시켰다.
 
-[![텍스트](C:\Users\ad\Desktop\수질데이터.JPG)](https://www.kaggle.com/adityakadiwal/water-potability)
+[![텍스트](../image/수질데이터.JPG)](https://www.kaggle.com/adityakadiwal/water-potability)
 
 
 
 
 
 2. 시험 예측 데이터
-
-"# kaggle" 
